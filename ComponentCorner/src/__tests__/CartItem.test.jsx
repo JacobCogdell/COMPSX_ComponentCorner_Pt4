@@ -1,3 +1,4 @@
+// Test with Vitest and React Testing Library - Written with assistance from Copilot
 import { render, screen, fireEvent } from "@testing-library/react";
 import CartItem from "../components/CartItem";
 import { describe, it, expect, vi } from "vitest";

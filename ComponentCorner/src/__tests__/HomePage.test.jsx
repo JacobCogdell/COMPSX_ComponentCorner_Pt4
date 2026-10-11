@@ -1,3 +1,4 @@
+// Test with Vitest and React Testing Library - Written with assistance from Copilot
 import { render, screen } from "@testing-library/react";
 import { MemoryRouter } from "react-router-dom";
 import HomePage from "../pages/HomePage";
